@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Linux.do OAuth Auto Allow v2
+// @name         Linux.do OAuth Auto Allow
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  自动允许 Linux.do OAuth 授权，记住已允许的网站，优化版
@@ -9,6 +9,7 @@
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-end
+// @license      MIT
 // ==/UserScript==
 
 (function () {
